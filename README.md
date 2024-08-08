@@ -4,7 +4,7 @@
 ## Description
 48 Categories - 307,776 Images of Scene Classification Data. The data diversity includes multiple scenes, different photographic angles. The dataset can be used for tasks such as scene classification.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1143?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1143?source=Github
 
 
 ## Data size
